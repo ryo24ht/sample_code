@@ -47,7 +47,7 @@ with fetch_mcp_client:
         tools=tools
     )
 
-    print("こんにちは、これはカスタムAIエージェントです。特に追加の機能はありません。")
+    print("URLをもとにサイトの情報を取得することができます。")
 
     while True:
         # ユーザーからの入力を受け取る
